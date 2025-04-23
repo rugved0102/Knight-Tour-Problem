@@ -1,0 +1,6 @@
+Out of Memory Error occurred.
+Maximum memory: 3593 MB
+Total memory: 3593 MB
+Free memory: 449 MB
+Used memory: 3143 MB
+Error: Ran out of memory. Please try a smaller board size.
