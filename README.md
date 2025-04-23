@@ -42,11 +42,12 @@ java KnightTourMCTS
 python Numbers_Visualization.py
 
 ### Project Structure
+```
 KnightTour_MCTS_CNN/
 │
 ├── KnightTourMCTS.java        # Java implementation of MCTS + CNN
 ├── Numbers_Visualization.py   # Pygame visualization script
 └── README.md
-
+```
 ### Acknowledgements
 This project was developed as part of a coursework assignment at VIT Pune for the Design and Analysis of Algorithms course.
